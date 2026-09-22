@@ -53,7 +53,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.viewcode',
     #'sphinx_collapse',
-    'sphinx_panels',
+    'sphinx_design',
     'sphinx_tabs.tabs',
     'sphinx.ext.napoleon'
     #'sphinx_toolbox',
